@@ -67,3 +67,7 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+.idea
+.idea/gatsby-blog.iml
+.idea/modules.xml
+.idea/vcs.xml
