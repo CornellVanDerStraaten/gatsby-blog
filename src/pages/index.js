@@ -3,7 +3,7 @@ import { Container } from "../components"
 
 const IndexPage = () => {
   return (
-    <Container></Container>
+    <Container/>
   )
 }
 
